@@ -62,7 +62,6 @@
             // 
             // btnConvert
             // 
-            this.btnConvert.Enabled = false;
             this.btnConvert.Location = new System.Drawing.Point(348, 235);
             this.btnConvert.Name = "btnConvert";
             this.btnConvert.Size = new System.Drawing.Size(83, 43);
@@ -74,9 +73,9 @@
             // tips
             // 
             this.tips.BackColor = System.Drawing.Color.White;
-            this.tips.Location = new System.Drawing.Point(0, 0);
+            this.tips.Location = new System.Drawing.Point(12, 9);
             this.tips.Name = "tips";
-            this.tips.Size = new System.Drawing.Size(443, 229);
+            this.tips.Size = new System.Drawing.Size(419, 207);
             this.tips.TabIndex = 3;
             this.tips.Text = "将文件夹或图像文件拖动于此...";
             this.tips.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
